@@ -1,0 +1,30 @@
+# The URL the site will be built for
+base_url = "https://vaporsoft.net"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+theme = "emily_zola_theme"
+
+generate_categories_pages = true
+generate_tags_pages = true
+generate_feed = true
+feed_filename = "feed.xml"
+
+taxonomies = [
+    { name = "tags", feed = false},
+    { name = "categories", feed = false},
+]
+
+[markdown]
+highlight_code = true
+highlight_theme = "css"
+highlight_themes_css = [
+  { theme = "ayu-dark", filename = "syntax-theme-dark.css" },
+  { theme = "ayu-light", filename = "syntax-theme-light.css" },
+]
+
+[extra]
+
+# Author name, appears in footer.
+emily_author = "flambe"

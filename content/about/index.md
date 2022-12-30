@@ -10,14 +10,14 @@ Oh I don't know. If I write things that are sufficiently non-terrible, they migh
 
 ### about flambe (she/her)
 
-I made a website once. It is this; you are reading it. Hopefully that is one of the least exciting facts about my life.
+I made a website once. It is this; you are reading it.
 
-The major plot beats of my professional history are more-or-less documented on [LinkedIn](https://www.linkedin.com/in/emilycogsdill/). I don't have a remotely up-to-date resume.
+My professional history is more-or-less documented on [LinkedIn](https://www.linkedin.com/in/emilycogsdill/). My resume is hysterically out of date. I want to see how far I can get in life without updating it.
 
 Can this be like a Tinder profile and I tell you to "just ask lol"?
 
-
-...
 _just ask lol_
 
-Anyway, you can email me at emily flambe at googlemail. 
+### contact
+
+emily flambe at google's popular mail service (they are an internet company)

@@ -51,7 +51,7 @@ impl Default for Synthy {
 impl Plugin for Synthy {
     const NAME: &'static str = "synthy";
     const VENDOR: &'static str = "rust audio";
-    const URL: &'static str = "https://vaporsoft.net";
+    const URL: &'static str = "https://https://emily-flambe.github.io/.net";
     const EMAIL: &'static str = "myemail@example.com";
     const VERSION: &'static str = "0.0.1";
     const DEFAULT_NUM_INPUTS: u32 = 0;

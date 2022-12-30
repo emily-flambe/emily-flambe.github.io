@@ -1,31 +1,21 @@
-# vaporsoft
-This is a website where I write about a variety of programming and computer-related topics.
+# https://emily-flambe.github.io/
+This is a website where I write about... um. I'll get back to you about that...
 
 # building & usage
-I use [Gutenberg](https://github.com/Keats/gutenberg) as a static site generator, and use Travis to push 
+I use [Zola](https://github.com/getzola/zola) as a static site generator, and use Github Actions to push 
 new builds to the `gh-pages` branch.
 
-## Taxonomies
-Only `categories` are taxonomies at the moment. Tags seem like they should be, but they are instead under `extra`, since they are used primarily for SEO purposes.
-
 # themes
-I use my [feather](https://github.com/piedoom/feather) theme for Gutenberg.
+I use the [emily-zola-theme](https://github.com/kyoheiu/emily_zola_theme), because of course I do. (I did not create it.)
 
 # contributing
-If you find a mistake, have a question, or a suggestion, please open up an issue or submit a PR.  Please format them similarly to examples below
-for sake of clarity so that I can understand what article or problem you are talking about.  Don't worry about getting this super right
-and don't feel intimidated to suggest something.  If it's 3AM, you're drunk, and submit a fix like "jjg dpost no good hrers the link"
-I'll still be happy that you submitted something to help me out.
+It seems extremely unlikely that anyone would ever want to contribute to this unhinged abomination of a ""web site"", but anyway here are some issue examples from the repo I cribbed most of this code from ([vaporsoft](https://github.com/piedoom/vaporsoft)).
 
 site issue example:
 ```
 Title: Text is not justified on mobile
 Description: [Description of issue] on Firefox 8 Windows 10
 ```
-
-Unfortunately, articles don't really have any ID besides their URL slug.  However, I don't usually post more than one article per day, so 
-writing the date in the title is a succicnt way to narrow down what you're talking about.  In the description, provide the full title
-of the post along with your mistake fix.  You can omit the mistake fix in the description if you're submitting a PR.
 
 article mistake example:
 ```
@@ -41,15 +31,23 @@ Title: Add an explanation for DSP on Jan 3 2018
 Description: "Creating a simple synthesizer VST plugin in Rust" should make sure the user knows that ...(etc.)...
 ```
 
+See, doesn't it feel nice to feel like you _could_ contribute, if you wanted to? Hey, maybe you should, you know?
+
+# best practices
+
+- be kind to animals (though see below re: feeding wildlife)
+- that includes human animals (OK to feed)
+
+_"nobody should be a cock to a stranger, ever!" - Raymond Smuckles_
+
 # things to avoid
-Any opinions shared on the website are my own, and you are free to disagree.  However, please use the commenting system on the website
-to raise arguments as opposed to submitting a Github issue.  Remember to always be respectful - vaporsoft is a leftist space.
 
-# credit
-If an issue or PR of yours is accepted, you will be credited in the article.  I will use the name provided on your GH and link to your
-profile.  
+- the internet
+- ultraviolet radiation
+- probably any kind of radiation?
+- wild animals (do NOT feed them)
+- wrath, sloth, greed, etc (gluttony and lust OK)
 
-## gender & pronouns
-As a catch all, I use "they" to refer to contributors as it can describe all genders.  If you have issue with this and would like
-me to use something else for your contribution, please let me know.  You can do so privately if you wish by sending me an email at 
-alexanderpaullozada @ google's popular email service.
+## contact
+ 
+emilyflambe @ google's popular email service (they are an internet company)

@@ -17,13 +17,13 @@ emily_favicon = "/images/favicon.png"
 
 # header icon width.
 # height will be automatically rendered.
-emily_iconsize = 70
+emily_iconsize = 250
 
 # number of posts in index.html.
 emily_indexposts = 5
 
 # switch to dark-theme
-emily_dark_mode = false
+emily_dark_mode = true
 
 [author]
 homepage = "https://github.com/kyoheiu"

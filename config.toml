@@ -1,6 +1,10 @@
 # The URL the site will be built for
 base_url = "https://emily-flambe.github.io"
 
+# Site title
+
+title = "Flambe's cool website of facts"
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 

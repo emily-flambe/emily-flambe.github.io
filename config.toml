@@ -4,7 +4,6 @@ base_url = "https://emily-flambe.github.io"
 # Site title
 
 title = "Flambe's cool website of facts"
-subtitle = "Come for the facts, stay for the alternative facts"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true

@@ -41,6 +41,8 @@ body {
 }
 
 .header {
+    display: flex;
+    justify-content: space-between;
     color: $lighttextcolor;
     background-color: $backgroundcolor;
     top: 0;

@@ -70,9 +70,12 @@ body {
         text-decoration: none;
         padding-top : 15px;
     }
-    br {
-        font-size: 1.25rem;
-    }
+}
+
+.site_subtitle {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.25rem;
 }
 
 .menu {

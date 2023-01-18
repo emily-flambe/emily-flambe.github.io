@@ -12,10 +12,10 @@ A website hosted on Github Pages ([emily-flambe.github.io](https://github.com/em
 
 Flambe (she/her). I was born with a different name, and I'll probably die with yet another. Names are a fake idea.
 
-My professional history is more-or-less documented on [LinkedIn](https://www.linkedin.com/in/emilycogsdill/).
+Currently I am an Engineering Manager for [Community Tech Alliance](https://www.communitytechalliance.org/), which (among other organizations) comprises the technological vanguard of the Vast Left-Wing Conspiracy.
+
+The rest of my professional history is outlined [elsewere on the internet](https://www.linkedin.com/in/emilycogsdill/).
 
 ### how do I reach you???
 
-Oh! Don't make me blush.
-
-emily flambe at google's popular mail service
+I'll appear when you need me (_a woman just knows_)

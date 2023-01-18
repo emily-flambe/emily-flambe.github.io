@@ -1,4 +1,5 @@
 $tender-blue:#b3deef;
+$tender-purple:#a5aafd;
 $tender-yellow:#ffc24b;
 $tender-red:#f43753;
 $tender-magenta:#d3b987;
@@ -105,6 +106,14 @@ body {
     }
 }
 
+.description {
+    color: $tender-blue;
+    font-size: 0.9rem;
+    a {
+        text-decoration: none;
+    }
+}
+
 .archive_title {
     font-size: 1.3rem;
     a {
@@ -120,7 +129,7 @@ body {
 }
 
 .taxonomies a {
-    font-size: 0.9rem;
+    font-size: 0.75rem;
     color: $lighttextcolor;
     text-decoration: none;
 }
@@ -128,7 +137,7 @@ body {
 .taxonomies_postpage {
     text-align: right;
     a {
-        font-size: 0.9rem;
+        font-size: 0.75rem;
         color: $lighttextcolor;
         text-decoration: none;
     }

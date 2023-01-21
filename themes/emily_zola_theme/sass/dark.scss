@@ -81,14 +81,6 @@ body {
     }
 }
 
-.description {
-    color: $tender-purple;
-    font-size: 0.9rem;
-    a {
-        text-decoration: none;
-    }
-}
-
 .date {
     color: $tender-yellow;
 }
@@ -101,6 +93,14 @@ body {
 .title {
     color: $tender-blue;
     font-size: 1.3rem;
+    a {
+        text-decoration: none;
+    }
+}
+
+.description {
+    color: $tender-purple;
+    font-size: 0.9rem;
     a {
         text-decoration: none;
     }

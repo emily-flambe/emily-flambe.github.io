@@ -12,9 +12,7 @@
     <div class="title">
       <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
     </div>
-    <div class="description">
-      <p>{{ page.description }}</p>
-    </div>
+    <br><div class="description">{{ page.description }}</div>
     <div class="taxonomies_index">
     {% if page.taxonomies.categories %}
         {% for category in page.taxonomies.categories %}
@@ -27,6 +25,7 @@
         {% endfor %}
     {% endif %}
     </div>
+  <br>
   </p>
 {% endfor %}
 

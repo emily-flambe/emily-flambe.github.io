@@ -42,8 +42,6 @@ body {
 }
 
 .header {
-    display: flex;
-    justify-content: space-between;
     color: $lighttextcolor;
     background-color: $backgroundcolor;
     top: 0;
@@ -67,23 +65,23 @@ body {
 .site_title {
     display: flex;
     justify-content: space-between;
-    font-size: 2.25rem;
+    font-size: 1.5rem;
     a {
         color: $textcolor;
         text-decoration: none;
-        padding-top : 15px;
     }
-}
-
-.site_subtitle {
-    display: flex;
-    justify-content: space-between;
-    font-size: 1.25rem;
 }
 
 .menu {
     text-align: right;
-    font-size: 1.5rem;
+    a {
+        text-decoration: none;
+    }
+}
+
+.description {
+    color: $tender-purple;
+    font-size: 0.9rem;
     a {
         text-decoration: none;
     }
@@ -106,14 +104,6 @@ body {
     }
 }
 
-.description {
-    color: $tender-blue;
-    font-size: 0.9rem;
-    a {
-        text-decoration: none;
-    }
-}
-
 .archive_title {
     font-size: 1.3rem;
     a {
@@ -129,7 +119,7 @@ body {
 }
 
 .taxonomies a {
-    font-size: 0.75rem;
+    font-size: 0.8rem;
     color: $lighttextcolor;
     text-decoration: none;
 }
@@ -137,7 +127,7 @@ body {
 .taxonomies_postpage {
     text-align: right;
     a {
-        font-size: 0.75rem;
+        font-size: 0.8rem;
         color: $lighttextcolor;
         text-decoration: none;
     }

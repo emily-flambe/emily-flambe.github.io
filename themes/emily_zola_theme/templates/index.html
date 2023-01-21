@@ -12,7 +12,9 @@
     <div class="title">
       <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
     </div>
-    <br><div class="description">{{ page.description }}</div>
+    <div class="description">
+      <a href="{{ page.permalink | safe }}">{{ page.description }}</a>
+    </div>
     <div class="taxonomies_index">
     {% if page.taxonomies.categories %}
         {% for category in page.taxonomies.categories %}

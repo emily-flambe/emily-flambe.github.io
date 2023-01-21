@@ -113,6 +113,14 @@ body {
     }
 }
 
+.archive_description {
+    color: $tender-purple;
+    font-size: 0.9rem;
+    a {
+        text-decoration: none;
+    }
+}
+
 .title_postpage {
     font-size: 1.6em;
     line-height: 1.4em;

@@ -34,6 +34,9 @@
       <div class="archive_title">
         <a href="{{ post.permalink }}">{{ post.title }}</a>
       </div>
+      <div class="archive_description">
+        <a href="{{ post.permalink }}">{{ post.description }}</a>
+      </div>
       <div class="taxonomies_index">
           {% if post.taxonomies.categories %}
               {% for category in post.taxonomies.categories %}

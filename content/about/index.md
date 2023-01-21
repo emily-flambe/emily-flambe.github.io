@@ -10,12 +10,12 @@ A website hosted on Github Pages ([emily-flambe.github.io](https://github.com/em
 
 ### who are you??
 
-Flambe (she/her). I was born with a different name, and I'll probably die with yet another. Names are a fake idea.
+Flambe (she/her).
 
-Currently I am an Engineering Manager for [Community Tech Alliance](https://www.communitytechalliance.org/), which (among other organizations) comprises the technological vanguard of the Vast Left-Wing Conspiracy.
+Currently I am an Engineering Manager for [Community Tech Alliance](https://www.communitytechalliance.org/). The rest of my professional history is [on LinkedIn](https://www.linkedin.com/in/emilycogsdill/).
 
-The rest of my professional history is outlined [elsewere on the internet](https://www.linkedin.com/in/emilycogsdill/).
+But also: what is the measure of a person?
 
 ### how do I reach you???
 
-I'll appear when you need me (_a woman just knows_)
+I'm sure you'll find a way

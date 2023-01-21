@@ -1,7 +1,7 @@
 +++
 title = "Hot Skiing Tips"
 date = 2023-01-14
-description = "Is this thing on?"
+description = "Make your skiing a more ~glamourous~ experience"
 [taxonomies]
 categories = ["hmmmm"]
 tags = ["tips","advice","skiing"]

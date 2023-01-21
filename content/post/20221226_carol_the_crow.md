@@ -1,6 +1,7 @@
 +++
 title = "Carol the Crow"
 date = 2022-12-26
+description = "Something absurd I wrote that might not even be factually correct idk"
 [taxonomies]
 categories = ["hmmmm"]
 tags = ["crow","campaign","politics"]

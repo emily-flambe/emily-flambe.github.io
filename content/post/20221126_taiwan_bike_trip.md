@@ -1,6 +1,7 @@
 +++
 title = "Biking around Taiwan"
 date = 2022-11-26
+description = "Documentation from a gloriously impulsive trip I took to ride bikes across rural Taiwan. (Private Google Doc)"
 [taxonomies]
 categories = ["adventures"]
 tags = ["taiwan","daddies"]

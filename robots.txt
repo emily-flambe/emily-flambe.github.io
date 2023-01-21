@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://emily-flambe.github.io/sitemap.xml
